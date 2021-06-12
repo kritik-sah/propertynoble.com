@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: propertynoble.netlify.app
+Token: 7b9bd4d50762c56e942fcd7e5d44c0611e9e9ad8faf863e5cd26aca28bc74aad
